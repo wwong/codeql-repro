@@ -1,0 +1,6 @@
+*.class
+*.actual
+*.testproj
+
+out/
+.idea

@@ -1,0 +1,8 @@
+---
+name: wwong/switch-case-repro
+version: 0.1.0
+extractor: java
+dependencies:
+  codeql/java-queries: '*'
+tests: .
+
